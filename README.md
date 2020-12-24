@@ -1,1 +1,1 @@
-# LongestSevenSegmentString
+# Longest String on Seven Segment Display
